@@ -1,4 +1,4 @@
-function balle2010Mod(y1,speed,airFlag,tau,shape,m1,m2,m3,m4,wind)      %add KC/SP
+function results = balle2010Mod(y1,speed,airFlag,tau,shape,m1,m2,m3,m4,wind)      %add KC/SP
 %% balle2010MOD - Program to compute the trajectory of a package  
 %         using the midpoint method.                              
 % invoke as: balle2010Mod(500,90,1,0.0001,1,4,8,12,16,0)
